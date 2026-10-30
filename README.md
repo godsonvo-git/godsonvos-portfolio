@@ -6,8 +6,6 @@ The portfolio showcases my skills, education, projects, and contact information 
 
 ## 🔗 Live Demo
 
-👉 Visit My Portfolio: https://godsonvo-portfolio.vercel.app/
-
 ## 🚀 Features
 
 - Responsive design for desktop, tablet, and mobile
